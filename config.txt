@@ -1,0 +1,2 @@
+PATH=C://Users/Pelmen/Desktop/
+FFMPEG=E:/Games/ffmpeg/bin/ffmpeg.exe
